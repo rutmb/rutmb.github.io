@@ -2,12 +2,10 @@
   "applinks": {
     "apps": [],
     "details": [
-      {
-        "appID": "35VE3K2EJ8.com.pheromone.application",
-         "paths": [ "*", "/" ]
-      }
+    {
+    "appID": "93HEPAR872.ch.vitim.VitimMobile",
+    "paths": [ "*"]
+    }
     ]
   }
 }
-
-
