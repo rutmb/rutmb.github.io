@@ -1,14 +1,5 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-    {
-    "appID": "93HEPAR872.com.vitim.OYMEvents",
-    "paths": [ "*"]
-    }
-    ]
-  },
   "appclips": {
-     "apps": ["93HEPAR872.io.vitim.UsersGateKeeper"]
+     "apps": ["93HEPAR872.io.vitim.UsersGateKeeper.Clip"]
   }
 }
