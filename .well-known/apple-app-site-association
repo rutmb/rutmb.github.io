@@ -4,9 +4,16 @@
     "details": [{
       "appID": "93HEPAR872.io.vitim.traceomat",
       "paths": ["*"]
-    }]
+    },
+    {
+      "appID": "93HEPAR872.io.vitim.gatekeeper",
+      "paths": ["*"]
+    }
+  ]
   },
   "appclips": {
     "apps": ["93HEPAR872.io.vitim.traceomat.Clip"]
   }
 }
+
+
